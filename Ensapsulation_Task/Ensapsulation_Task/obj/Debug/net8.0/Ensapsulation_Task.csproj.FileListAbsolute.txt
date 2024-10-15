@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\bin\Debug\net8.0\Ensapsulation_Task.exe
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\bin\Debug\net8.0\Ensapsulation_Task.deps.json
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\bin\Debug\net8.0\Ensapsulation_Task.runtimeconfig.json
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\bin\Debug\net8.0\Ensapsulation_Task.dll
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\bin\Debug\net8.0\Ensapsulation_Task.pdb
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.AssemblyInfo.cs
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.dll
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\refint\Ensapsulation_Task.dll
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.pdb
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\Ensapsulation_Task.genruntimeconfig.cache
+C:\Users\pc\source\repos\Ensapsulation_Task\Ensapsulation_Task\obj\Debug\net8.0\ref\Ensapsulation_Task.dll
